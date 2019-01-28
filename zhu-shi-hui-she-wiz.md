@@ -74,7 +74,7 @@ description: 2017年2月～現在
 ![&#x30B8;&#x30E3;&#x30D1;&#x30F3;&#x30AB;&#x30FC;&#x30C6;&#x30F3;](.gitbook/assets/image%20%2818%29.png)
 
 * [http://japan-curtain.jp/](http://japan-curtain.jp/)
-* 現在は社内アクセスのみ 
+* 現在は一旦運用停止で、社内アクセスのみ 
 * アニメーション、スタイル設計、コーディング 
 
 ### 代理店
@@ -109,7 +109,6 @@ description: 2017年2月～現在
 ![&#x300E;es fest 09&#x300F;A3! trAvel AbroAd! \| A3!&#xD7;&#x30B3;&#x30C8;&#x30D6;&#x30AD;&#x30E4; \| &#x682A;&#x5F0F;&#x4F1A;&#x793E; &#x58FD;&#x5C4B; &#x30B3;&#x30C8;&#x30D6;&#x30AD;&#x30E4;](.gitbook/assets/image%20%287%29.png)
 
 * [http://shop.kotobukiya.co.jp/shop/pages/esfest09-springsummer.aspx](http://shop.kotobukiya.co.jp/shop/pages/esfest09-springsummer.aspx)
-* こういったキャラクターもののキャンペーンサイトを数多く制作
 * コーディング 
 
 #### 10thAnniversary -es series-
@@ -136,6 +135,6 @@ description: 2017年2月～現在
 ![STK HELP NET](.gitbook/assets/image%20%2814%29.png)
 
 * [http://help-net.012grp.co.jp/](http://help-net.012grp.co.jp/)
-* 社内部署の商材情報一覧ツール（社内アクセスのみ） 
+* 社内事業部の情報一覧ツール（社内アクセスのみ） 
 * WordPressオリジナルテーマ構築、コーディング
 
