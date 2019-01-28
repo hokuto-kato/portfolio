@@ -22,17 +22,16 @@ description: 2017年2月～現在
 
 ### 在宅ワーク可能なコールセンター/テレアポ・稼げる副業ならCallshare（コールシェア）
 
-![](../.gitbook/assets/image%20%283%29.png)
+![&#x5728;&#x5B85;&#x30EF;&#x30FC;&#x30AF;&#x53EF;&#x80FD;&#x306A;&#x30B3;&#x30FC;&#x30EB;&#x30BB;&#x30F3;&#x30BF;&#x30FC;/&#x30C6;&#x30EC;&#x30A2;&#x30DD;&#x30FB;&#x7A3C;&#x3052;&#x308B;&#x526F;&#x696D;&#x306A;&#x3089;Callshare&#xFF08;&#x30B3;&#x30FC;&#x30EB;&#x30B7;&#x30A7;&#x30A2;&#xFF09;](../.gitbook/assets/image%20%283%29.png)
 
-[https://share.callnavi.jp/](https://share.callnavi.jp/)
-
+* [https://share.callnavi.jp/](https://share.callnavi.jp/)
 * アニメーション（TweenMax、TimelineMax、 ScrollMagic）
 * スタイル設計
 * 静的な箇所のコーディング
 
 ### フルコミッション・副業などで稼げる営業求人多数！｜ウルマップ
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![&#x30D5;&#x30EB;&#x30B3;&#x30DF;&#x30C3;&#x30B7;&#x30E7;&#x30F3;&#x30FB;&#x526F;&#x696D;&#x306A;&#x3069;&#x3067;&#x7A3C;&#x3052;&#x308B;&#x55B6;&#x696D;&#x6C42;&#x4EBA;&#x591A;&#x6570;&#xFF01;&#xFF5C;&#x30A6;&#x30EB;&#x30DE;&#x30C3;&#x30D7;](../.gitbook/assets/image%20%2822%29.png)
 
 * [https://urumap.com/](https://urumap.com/)
 * 機能やページの追加、運用 

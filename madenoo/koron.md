@@ -8,6 +8,7 @@ description: 2015/5～2017/1
 
 ![&#x51FA;&#x4F1A;&#x3044;&#x5FDC;&#x63F4;&#x30B3;&#x30DF;&#x30E5;&#x30CB;&#x30C6;&#x30A3; &#x30EF;&#x30AF;&#x30EF;&#x30AF;&#x30E1;&#x30FC;&#x30EB;](../.gitbook/assets/image%20%2810%29.png)
 
+* [https://550909.com/](https://550909.com/)
 * PC・スマートフォン・ガラケー対応マッチングサービスのフロントエンド業務を担当
 * gulp、sass、Browserify、Flocssなどを導入し、制作環境を構築
 * ページごとにバラバラに配置されていたCSS・JSを一つにまとめる
