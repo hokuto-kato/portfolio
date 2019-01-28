@@ -1,10 +1,12 @@
 # Table of contents
 
 * [hokuto's portfolio](README.md)
-* [スキルセット](sukirusetto.md)
-* [株式会社LockUP](zhu-shi-hui-she-lockup.md)
-* [株式会社サイバーエージェント](saibjinto.md)
-* [NTTラーニングシステムズ株式会社](nttrningushisutemuzu.md)
-* [有限会社コロン](koron.md)
-* [株式会社Wiz](zhu-shi-hui-she-wiz.md)
+* [できること](dekirukoto/README.md)
+  * [スキルセット](dekirukoto/sukirusetto.md)
+* [今までのお仕事](madenoo/README.md)
+  * [株式会社LockUP](madenoo/zhu-shi-hui-she-lockup.md)
+  * [株式会社サイバーエージェント](madenoo/saibjinto.md)
+  * [NTTラーニングシステムズ株式会社](madenoo/nttrningushisutemuzu.md)
+  * [有限会社コロン](madenoo/koron.md)
+  * [株式会社Wiz](madenoo/zhu-shi-hui-she-wiz.md)
 
