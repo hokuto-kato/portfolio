@@ -1,8 +1,7 @@
 # Table of contents
 
 * [hokuto's portfolio](README.md)
-* [できること](dekirukoto/README.md)
-  * [スキルセット](dekirukoto/sukirusetto.md)
+* [できること](sukirusetto.md)
 * [今までのお仕事](madenoo/README.md)
   * [株式会社LockUP](madenoo/zhu-shi-hui-she-lockup.md)
   * [株式会社サイバーエージェント](madenoo/saibjinto.md)
