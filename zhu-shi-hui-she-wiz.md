@@ -61,7 +61,7 @@ description: 2017年2月～現在
 
 #### フルコミッション・副業などで稼げる営業求人多数！｜ウルマップ
 
-![](.gitbook/assets/image%20%2828%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
 * [https://urumap.com/](https://urumap.com/)
 * 機能やページの追加、運用 
@@ -71,7 +71,7 @@ description: 2017年2月～現在
 
 #### ジャパンカーテン
 
-![&#x30B8;&#x30E3;&#x30D1;&#x30F3;&#x30AB;&#x30FC;&#x30C6;&#x30F3;](.gitbook/assets/image%20%2818%29.png)
+![&#x30B8;&#x30E3;&#x30D1;&#x30F3;&#x30AB;&#x30FC;&#x30C6;&#x30F3;](.gitbook/assets/image%20%2815%29.png)
 
 * [http://japan-curtain.jp/](http://japan-curtain.jp/)
 * 現在は一旦運用停止で、社内アクセスのみ 
@@ -81,7 +81,7 @@ description: 2017年2月～現在
 
 #### インターネット光回線ならドコモ光！
 
-![&#x30A4;&#x30F3;&#x30BF;&#x30FC;&#x30CD;&#x30C3;&#x30C8;&#x5149;&#x56DE;&#x7DDA;&#x306A;&#x3089;&#x30C9;&#x30B3;&#x30E2;&#x5149;&#xFF01;](.gitbook/assets/image%20%2823%29.png)
+![&#x30A4;&#x30F3;&#x30BF;&#x30FC;&#x30CD;&#x30C3;&#x30C8;&#x5149;&#x56DE;&#x7DDA;&#x306A;&#x3089;&#x30C9;&#x30B3;&#x30E2;&#x5149;&#xFF01;](.gitbook/assets/image%20%2819%29.png)
 
 * [https://docomo-hikari.net/](https://docomo-hikari.net/)
 * 外部制作会社からの引き継ぎ 
@@ -92,7 +92,7 @@ description: 2017年2月～現在
 
 #### 野中生萌 公式サイト \| mihounonaka.com
 
-![&#x91CE;&#x4E2D;&#x751F;&#x840C; &#x516C;&#x5F0F;&#x30B5;&#x30A4;&#x30C8; \| mihounonaka.com](.gitbook/assets/image%20%2824%29.png)
+![&#x91CE;&#x4E2D;&#x751F;&#x840C; &#x516C;&#x5F0F;&#x30B5;&#x30A4;&#x30C8; \| mihounonaka.com](.gitbook/assets/image%20%2820%29.png)
 
 * [https://mihounonaka.com/](https://mihounonaka.com/)
 * WordPressテーマの改修、コーディング 
@@ -132,7 +132,7 @@ description: 2017年2月～現在
 
 #### STK HELP NET
 
-![STK HELP NET](.gitbook/assets/image%20%2814%29.png)
+![STK HELP NET](.gitbook/assets/image%20%2812%29.png)
 
 * [http://help-net.012grp.co.jp/](http://help-net.012grp.co.jp/)
 * 社内事業部の情報一覧ツール（社内アクセスのみ） 

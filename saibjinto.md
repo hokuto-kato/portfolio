@@ -23,14 +23,14 @@ description: 2008/4～2013/1
 
 ## Ameba（アメーバ） \| 芸能人・有名人ブログ
 
-![Ameba&#xFF08;&#x30A2;&#x30E1;&#x30FC;&#x30D0;&#xFF09; \| &#x82B8;&#x80FD;&#x4EBA;&#x30FB;&#x6709;&#x540D;&#x4EBA;&#x30D6;&#x30ED;&#x30B0;](.gitbook/assets/image%20%2815%29.png)
+![Ameba&#xFF08;&#x30A2;&#x30E1;&#x30FC;&#x30D0;&#xFF09; \| &#x82B8;&#x80FD;&#x4EBA;&#x30FB;&#x6709;&#x540D;&#x4EBA;&#x30D6;&#x30ED;&#x30B0;](.gitbook/assets/image%20%2813%29.png)
 
 * 芸能人・有名人ブログのポータルページ
 * デザインや運用、新規ページの作成を担当
 
 ## Ameba News \[アメーバニュース\]
 
-![Ameba News \[&#x30A2;&#x30E1;&#x30FC;&#x30D0;&#x30CB;&#x30E5;&#x30FC;&#x30B9;\]](.gitbook/assets/image%20%2821%29.png)
+![Ameba News \[&#x30A2;&#x30E1;&#x30FC;&#x30D0;&#x30CB;&#x30E5;&#x30FC;&#x30B9;\]](.gitbook/assets/image%20%2817%29.png)
 
 * 芸能人・有名人関連のニュースサイト
 * デザインや運用、新規ページの作成を担当
