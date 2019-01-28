@@ -14,8 +14,16 @@
   * babel
   * webpack
   * jQuery
+  * TweenMax.TimelineMax.ScrollMagic
 * タスクランナー
   * gulp
+    * iconfont
+    * minify
+    * sprite\(png,svg\)
+    * favicon
+    * server
+    * compile,build
+    * deploy
 * CMS
   * WordPress
 * デザイン
@@ -24,5 +32,5 @@
   * Adobe Illustrator
   * Zeplin
 
-## 実績
+## 今までのお仕事
 
