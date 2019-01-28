@@ -22,7 +22,8 @@
     * sprite\(png,svg\)
     * favicon
     * server
-    * compile,build
+    * compile
+    * build
     * deploy
 * CMS
   * WordPress
