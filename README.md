@@ -1,4 +1,4 @@
-# hokuto's portfolio
+# hokuto's
 
 ## スキルセット
 
