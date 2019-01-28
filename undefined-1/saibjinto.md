@@ -6,11 +6,11 @@ description: 2008/4～2013/1
 
 ## 芸能人・有名人アメーバブログ
 
-![&#x6843;&#x30AA;&#x30D5;&#x30A3;&#x30B7;&#x30E3;&#x30EB;&#x30D6;&#x30ED;&#x30B0;](.gitbook/assets/image%20%289%29.png)
+![&#x6843;&#x30AA;&#x30D5;&#x30A3;&#x30B7;&#x30E3;&#x30EB;&#x30D6;&#x30ED;&#x30B0;](../.gitbook/assets/image%20%289%29.png)
 
-![&#x7530;&#x4E2D;&#x7F8E;&#x4FDD;&#x30AA;&#x30D5;&#x30A3;&#x30B7;&#x30E3;&#x30EB;&#x30D6;&#x30ED;&#x30B0;&#xFF62;340112!!&#xFF63;](.gitbook/assets/image%20%288%29.png)
+![&#x7530;&#x4E2D;&#x7F8E;&#x4FDD;&#x30AA;&#x30D5;&#x30A3;&#x30B7;&#x30E3;&#x30EB;&#x30D6;&#x30ED;&#x30B0;&#xFF62;340112!!&#xFF63;](../.gitbook/assets/image%20%288%29.png)
 
-![TERIYAKI BOYZ &#x30C6;&#x30EA;&#x30E4;&#x30AD;&#x30DC;&#x30FC;&#x30A4;&#x30BA; OFFICIAL BLOG](.gitbook/assets/image.png)
+![TERIYAKI BOYZ &#x30C6;&#x30EA;&#x30E4;&#x30AD;&#x30DC;&#x30FC;&#x30A4;&#x30BA; OFFICIAL BLOG](../.gitbook/assets/image.png)
 
 * 芸能人、有名人オフィシャルブログの制作
   * 累計約2400人のオフィシャルブログのリリースを担当
@@ -23,14 +23,14 @@ description: 2008/4～2013/1
 
 ## Ameba（アメーバ） \| 芸能人・有名人ブログ
 
-![Ameba&#xFF08;&#x30A2;&#x30E1;&#x30FC;&#x30D0;&#xFF09; \| &#x82B8;&#x80FD;&#x4EBA;&#x30FB;&#x6709;&#x540D;&#x4EBA;&#x30D6;&#x30ED;&#x30B0;](.gitbook/assets/image%20%2813%29.png)
+![Ameba&#xFF08;&#x30A2;&#x30E1;&#x30FC;&#x30D0;&#xFF09; \| &#x82B8;&#x80FD;&#x4EBA;&#x30FB;&#x6709;&#x540D;&#x4EBA;&#x30D6;&#x30ED;&#x30B0;](../.gitbook/assets/image%20%2813%29.png)
 
 * 芸能人・有名人ブログのポータルページ
 * デザインや運用、新規ページの作成を担当
 
 ## Ameba News \[アメーバニュース\]
 
-![Ameba News \[&#x30A2;&#x30E1;&#x30FC;&#x30D0;&#x30CB;&#x30E5;&#x30FC;&#x30B9;\]](.gitbook/assets/image%20%2817%29.png)
+![Ameba News \[&#x30A2;&#x30E1;&#x30FC;&#x30D0;&#x30CB;&#x30E5;&#x30FC;&#x30B9;\]](../.gitbook/assets/image%20%2817%29.png)
 
 * 芸能人・有名人関連のニュースサイト
 * デザインや運用、新規ページの作成を担当
