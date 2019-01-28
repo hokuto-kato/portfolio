@@ -1,7 +1,3 @@
----
-description: test
----
-
 # hokuto's portfolio
 
 ## スキルセット
