@@ -41,6 +41,7 @@ description: 2005/09～2007/06
 
 * [http://www.clubdam.com/](http://www.clubdam.com/)
 * 新規ページのデザイン、コーディング
+* ディレクション
 * 運用
 
 ## 保工業株式会社 Tamotsu Kogyo Co.,Ltd.
@@ -55,6 +56,7 @@ description: 2005/09～2007/06
 
 * ノベルティグッズ作成
 * イベント運営
-  * TEPCOひかり：ムービーコンテストなど
 * 新人研修
+
+
 
