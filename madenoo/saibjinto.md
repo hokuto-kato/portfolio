@@ -12,6 +12,9 @@ description: 2008/4～2013/1
 
 ![TERIYAKI BOYZ &#x30C6;&#x30EA;&#x30E4;&#x30AD;&#x30DC;&#x30FC;&#x30A4;&#x30BA; OFFICIAL BLOG](../.gitbook/assets/image.png)
 
+* [https://ameblo.jp/momo-minbe/](https://ameblo.jp/momo-minbe/)
+* [https://ameblo.jp/tanaka--miho/](https://ameblo.jp/tanaka--miho/)
+* [https://ameblo.jp/teriyakiblog/](https://ameblo.jp/teriyakiblog/)
 * 芸能人、有名人オフィシャルブログの制作
   * 累計約2400人のオフィシャルブログのリリースを担当
   * テンプレートを大量に制作し、リリーススピードを上げる
@@ -25,6 +28,7 @@ description: 2008/4～2013/1
 
 ![Ameba&#xFF08;&#x30A2;&#x30E1;&#x30FC;&#x30D0;&#xFF09; \| &#x82B8;&#x80FD;&#x4EBA;&#x30FB;&#x6709;&#x540D;&#x4EBA;&#x30D6;&#x30ED;&#x30B0;](../.gitbook/assets/image%20%2813%29.png)
 
+* [https://official.ameba.jp/](https://official.ameba.jp/)
 * 芸能人・有名人ブログのポータルページ
 * デザインや運用、新規ページの作成を担当
 
@@ -32,6 +36,7 @@ description: 2008/4～2013/1
 
 ![Ameba News \[&#x30A2;&#x30E1;&#x30FC;&#x30D0;&#x30CB;&#x30E5;&#x30FC;&#x30B9;\]](../.gitbook/assets/image%20%2817%29.png)
 
+* [https://news.ameba.jp/](https://news.ameba.jp/)
 * 芸能人・有名人関連のニュースサイト
 * デザインや運用、新規ページの作成を担当
 
