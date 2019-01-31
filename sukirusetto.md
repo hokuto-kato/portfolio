@@ -53,3 +53,14 @@
 * Slack
 * ChatWork
 
+## SEO
+
+* json-ld
+
+## バージョン管理
+
+* Git
+* GitLab
+* Bitbucket
+* Subversion
+
