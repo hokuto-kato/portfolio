@@ -100,11 +100,8 @@ description: 2017年2月～現在
 
 ## その他
 
-### STK HELP NET
+### 他事業部の情報一覧ツールなど
 
-![STK HELP NET](../.gitbook/assets/image%20%2812%29.png)
-
-* [http://help-net.012grp.co.jp/](http://help-net.012grp.co.jp/)
-* 社内事業部の情報一覧ツール（社内アクセスのみ） 
-* WordPressオリジナルテーマ構築、コーディング
+* WordPressオリジナルテーマ構築とコーディング
+* 高いリテラシーを必要としない更新しやすい作りに
 
