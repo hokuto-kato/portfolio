@@ -46,6 +46,14 @@
 * Adobe Illustrator
 * Zeplin
 
+## SEO
+
+* json-ld
+
+## TEST
+
+* puppeteer + reg-cli
+
 ## Tool
 
 * ScrapBox
@@ -53,10 +61,6 @@
 * Bitbucket
 * Slack
 * ChatWork
-
-## SEO
-
-* json-ld
 
 ## バージョン管理
 
