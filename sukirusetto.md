@@ -39,13 +39,6 @@
 * WordPress
   * vccw + wordmove
 
-## Design
-
-* Adobe XD
-* Adobe Photoshop
-* Adobe Illustrator
-* Zeplin
-
 ## SEO
 
 * json-ld
@@ -53,6 +46,13 @@
 ## TEST
 
 * puppeteer + reg-cli
+
+## Design
+
+* Adobe XD
+* Adobe Photoshop
+* Adobe Illustrator
+* Zeplin
 
 ## Tool
 
