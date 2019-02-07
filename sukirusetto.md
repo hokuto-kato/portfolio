@@ -39,9 +39,10 @@
 * WordPress
   * vccw + wordmove
 
-## SEO
+## Marketing,SEO
 
 * json-ld
+* Juicer
 
 ## TEST
 
