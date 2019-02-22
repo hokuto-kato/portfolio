@@ -42,7 +42,11 @@
 ## Marketing,SEO
 
 * json-ld
-* Juicer
+* heatmap
+* google analytics
+* google tagmanager
+* google optimize
+* juicer
 
 ## TEST
 
