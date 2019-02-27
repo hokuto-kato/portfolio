@@ -67,6 +67,12 @@
 * Slack
 * ChatWork
 
+## local
+
+* browser-sync
+* docker
+* vagrant
+
 ## バージョン管理
 
 * Git
