@@ -48,7 +48,6 @@ description: 2017年2月～現在
 ![&#x30B8;&#x30E3;&#x30D1;&#x30F3;&#x30AB;&#x30FC;&#x30C6;&#x30F3;](../.gitbook/assets/image%20%2817%29.png)
 
 * [http://japan-curtain.jp/](http://japan-curtain.jp/)
-* 現在は一旦運用停止で、社内アクセスのみ 
 * アニメーション、スタイル設計、コーディング 
 
 ## 代理店
