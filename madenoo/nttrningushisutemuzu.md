@@ -21,6 +21,7 @@ description: 2013/10～2015/4
 
 ### 担当業務
 
+* [https://flets.com/](https://flets.com/)
 * 運用・新規ページ制作
   * デザイン
   * コーディング
