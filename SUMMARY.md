@@ -1,7 +1,8 @@
 # Table of contents
 
-* [加藤北斗のポートフォリオ](README.md)
+* [portfolio](README.md)
 * [今までの仕事](madenoo/README.md)
+  * [株式会社モバオク](madenoo/mobaoku.md)
   * [株式会社Wiz](madenoo/zhu-shi-hui-she-wiz.md)
   * [有限会社コロン](madenoo/koron.md)
   * [NTTラーニングシステムズ株式会社](madenoo/nttrningushisutemuzu.md)

@@ -1,5 +1,5 @@
 ---
-description: 2017年2月～現在
+description: 2017年2月～2019年8月
 ---
 
 # 株式会社Wiz

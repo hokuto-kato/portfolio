@@ -1,5 +1,5 @@
 ---
-description: 2005/09～2007/06
+description: 2005年9月～2007年6月
 ---
 
 # 株式会社LockUP
