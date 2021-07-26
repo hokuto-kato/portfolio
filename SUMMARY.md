@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ポートフォリオ](README.md)
+* [自己紹介](README.md)
 * [今までの仕事](history/README.md)
   * [株式会社モバオク](history/mobaoku.md)
   * [株式会社Wiz](history/wiz.md)
