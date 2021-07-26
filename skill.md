@@ -66,6 +66,7 @@
 * Bitbucket
 * Slack
 * ChatWork
+* GitBook
 
 ## local
 
