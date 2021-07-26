@@ -2,7 +2,7 @@
 description: 加藤北斗のポートフォリオ
 ---
 
-# portfolio
+# ポートフォリオ
 
 ![](.gitbook/assets/541169708d528191d0fff1bc055bc0588ede004820010209nokohi2jpg.jpeg)
 
