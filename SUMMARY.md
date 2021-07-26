@@ -1,12 +1,13 @@
 # Table of contents
 
 * [portfolio](README.md)
-* [今までの仕事](madenoo/README.md)
-  * [株式会社モバオク](madenoo/mobaoku.md)
-  * [株式会社Wiz](madenoo/zhu-shi-hui-she-wiz.md)
-  * [有限会社コロン](madenoo/koron.md)
-  * [NTTラーニングシステムズ株式会社](madenoo/nttrningushisutemuzu.md)
-  * [株式会社サイバーエージェント](madenoo/saibjinto.md)
-  * [株式会社LockUP](madenoo/zhu-shi-hui-she-lockup.md)
-* [できること](sukirusetto.md)
+* [今までの仕事](history/README.md)
+  * [株式会社モバオク](history/mobaoku.md)
+  * [株式会社Wiz](history/wiz.md)
+  * [有限会社コロン](history/colon.md)
+  * [NTTラーニングシステムズ株式会社](history/ntt.md)
+  * [株式会社サイバーエージェント](history/ca.md)
+  * [株式会社LockUP](history/lockup.md)
+* [できること](skill.md)
+* [やりたいこと](wannado.md)
 
