@@ -1,6 +1,6 @@
 # Table of contents
 
-* [hokuto's portfolio](README.md)
+* [Hokuto Kato's Portfolio](README.md)
 * [今までの仕事](madenoo/README.md)
   * [株式会社Wiz](madenoo/zhu-shi-hui-she-wiz.md)
   * [有限会社コロン](madenoo/koron.md)
