@@ -4,7 +4,7 @@ description: 自己紹介
 
 # 🧔🏼‍♂️ 加藤北斗とは
 
-![最近はひげ伸ばしてます](.gitbook/assets/541169708d528191d0fff1bc055bc0588ede004820010209nokohi2jpg.jpeg)
+![](.gitbook/assets/2021-06-20-17.50.42.png)
 
 ## 概要
 
@@ -23,7 +23,7 @@ EC、オークション、社内ツールなどなど。\
 
 ## Github
 
-[https://github.com/hokut-o](https://github.com/hokut-o)
+[https://github.com/hokuto-kato](https://github.com/hokuto-kato)
 
 ## 好きな音楽
 
@@ -38,6 +38,7 @@ EC、オークション、社内ツールなどなど。\
 * リアル
 * ジョジョの奇妙な冒険
 * かくかくしかじか
+* Sunny
 
 ## 好きなゲーム
 
@@ -49,6 +50,8 @@ EC、オークション、社内ツールなどなど。\
 * ダンジョンマスター
 * Red Dead Redemption
 * 天誅
+* ポピュラス
+* ICO
 
 
 
