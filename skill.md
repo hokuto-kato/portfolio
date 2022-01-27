@@ -1,4 +1,4 @@
-# ⚡️できること
+# ⚡ できること
 
 ## HTML
 
@@ -27,7 +27,7 @@
 * gulp
   * iconfont
   * minify
-  * sprite\(png,svg\)
+  * sprite(png,svg)
   * favicon
   * server
   * compile
@@ -80,4 +80,3 @@
 * GitLab
 * Bitbucket
 * Subversion
-
