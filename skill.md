@@ -9,6 +9,7 @@
 
 * sass
 * stylus
+* css animation
 
 ### 設計
 
@@ -18,21 +19,15 @@
 
 * es6
 * babel
-* webpack
 * jQuery
-* TweenMax.TimelineMax.ScrollMagic
+* TweenMax.TimelineMax.ScrollMagic などのライブラリを使ったアニメーション
+* Web Animation API
 
-## Task Runner
+## Task Runner, Bundle
 
 * gulp
-  * iconfont
-  * minify
-  * sprite(png,svg)
-  * favicon
-  * server
-  * compile
-  * build
-  * deploy
+* webpack
+* vite
 
 ## CMS
 
