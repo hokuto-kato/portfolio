@@ -3,13 +3,12 @@
 ## HTML
 
 * pug
-* 仕様に準拠したマークアップ
 
 ## CSS
 
 * sass
 * stylus
-* css animation
+* animation
 
 ### 設計
 
@@ -18,10 +17,9 @@
 ## Javascript
 
 * es6
-* babel
-* jQuery
-* TweenMax.TimelineMax.ScrollMagic などのライブラリを使ったアニメーション
+* TweenMax
 * Web Animation API
+* p5.js
 
 ## Task Runner, Bundle
 
@@ -32,20 +30,6 @@
 ## CMS
 
 * WordPress
-  * vccw + wordmove
-
-## Marketing,SEO
-
-* json-ld
-* heatmap
-* google analytics
-* google tagmanager
-* google optimize
-* juicer
-
-## TEST
-
-* puppeteer + reg-cli
 
 ## Design
 
@@ -53,21 +37,7 @@
 * Adobe Photoshop
 * Adobe Illustrator
 * Zeplin
-
-## Tool
-
-* ScrapBox
-* Dropbox Paper
-* Bitbucket
-* Slack
-* ChatWork
-* GitBook
-
-## local
-
-* browser-sync
-* docker
-* vagrant
+* Figma
 
 ## バージョン管理
 
