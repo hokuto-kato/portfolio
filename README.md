@@ -2,7 +2,7 @@
 description: 自己紹介
 ---
 
-# 🧔🏻‍♂️加藤北斗とは
+# 🧔 加藤北斗とは
 
 ![](.gitbook/assets/IMG\_2454.JPG)
 
