@@ -21,7 +21,7 @@ description: 2015年5月～2017年1月
 
 ### URL
 
-* [https://550909.com/](https://550909.com)
+* [https://550909.com/](https://550909.com/)
 
 ### 担当業務
 

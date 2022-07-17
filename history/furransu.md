@@ -10,7 +10,7 @@ description: 2022年〜
 
 ## DEMO
 
-[https://main.d1r274vlhcf844.amplifyapp.com/](https://main.d1r274vlhcf844.amplifyapp.com)
+[https://main.d1r274vlhcf844.amplifyapp.com/](https://main.d1r274vlhcf844.amplifyapp.com/)
 
 id : 4Rw7E3bKKG\_2P
 
