@@ -1,47 +1,10 @@
 # ⚡ できること
 
-## HTML
-
-* pug
-
-## CSS
-
-* sass
-* stylus
-* animation
-
-### 設計
-
-* flocss
-
-## Javascript
-
-* es6
-* TweenMax
-* Web Animation API
-* p5.js
-
-## Task Runner, Bundle
-
-* gulp
-* webpack
-* vite
-
-## CMS
-
-* WordPress
-
-## Design
-
-* Adobe XD
-* Adobe Photoshop
-* Adobe Illustrator
-* Zeplin
-* Figma
-
-## バージョン管理
-
-* Git
-* GitLab
-* Bitbucket
-* Subversion
+* pug, sass, stylusなどのpreprocessorを使った開発
+* npm, yarnなどのパッケージマネージャーを使った開発
+* gulp / webpack / vite を使った開発環境の設定
+* flocssなどのスタイル設計
+* css, web animation api を使ったアニメーション
+* tweenmax, p5.jsなどのライブラリを使ったアニメーション
+* wordpressを使ったCMS制作
+* フロントチームのマネージメント
