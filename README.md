@@ -6,8 +6,6 @@ description: 自己紹介
 
 ![](.gitbook/assets/IMG\_2454.JPG)
 
-## 概要
-
 加藤北斗と申します。\
 フロントエンドエンジニアのはしくれとしてお仕事させていただいております。\
 エンタメ、工場、スポーツ、キャラクター、マッチング、求人、販促、\
@@ -23,33 +21,3 @@ EC、オークション、社内ツールなどなど。\
 ## Github
 
 [https://github.com/hokuto-kato](https://github.com/hokuto-kato)
-
-## 好きな音楽
-
-{% embed url="https://www.last.fm/ja/user/hokuto" %}
-
-## 好きな映画
-
-[https://filmarks.com/users/hokuto](https://filmarks.com/users/hokuto)
-
-## 好きな漫画
-
-* リアル
-* ジョジョの奇妙な冒険
-* かくかくしかじか
-* Sunny
-* ザ・ファブル
-
-## 好きなゲーム
-
-* ゼルダの伝説 ブレス オブ ザ ワイルド
-* ゼルダの伝説 ふしぎの木の実
-* スーパーマリオ オデッセイ
-* MOTHER2 ギーグの逆襲
-* オリとくらやみの森
-* ダンジョンマスター
-* Red Dead Redemption
-* 天誅
-* ポピュラス
-* ICO
-* Cuphead
