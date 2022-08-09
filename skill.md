@@ -8,3 +8,4 @@
 * tweenmax, p5.jsなどのライブラリを使ったアニメーション
 * wordpressを使ったCMS制作
 * フロントチームのマネージメント
+* Reactを使ったWeb App制作 <mark style="color:red;">**← NEW!**</mark>
