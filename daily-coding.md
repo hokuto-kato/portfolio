@@ -1,5 +1,5 @@
 ---
-description: 日常とプログラミングを緩くつなぐ
+description: 日常とプログラミングをゆるくつなぐ
 ---
 
 # 💻 Daily Coding
