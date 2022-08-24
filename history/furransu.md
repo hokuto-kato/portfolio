@@ -10,7 +10,7 @@ description: 2022年〜
 **Frontend** : Webpack / Javascript / Sass, Flocss / Pug / Figma, XD, Zeplin\
 **その他** : Slack, Zoom
 
-**試しているもの** : **** Vite, React, Chakra UI, Tailwind CSS Typescript, P5.js
+**試しているもの** : **** Vite, React, Chakra UI, Tailwind CSS Typescript, P5.js, ESLint
 
 ## 担当プロジェクト
 
