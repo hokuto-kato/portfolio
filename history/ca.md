@@ -4,20 +4,26 @@ description: 2008年4月～2013年1月
 
 # 株式会社サイバーエージェント
 
-アメブロ専属スタッフとして入社。 芸能人・有名人のブログを月100人という異常なペースでリリースしていました。（累計約2400人のリリース）  
-デザインテンプレートを大量に制作しリリーススピードを上げるよう工夫しました。  
+アメブロ専属スタッフとして入社。 芸能人・有名人のブログを月100人という異常なペースでリリースしていました。（累計約2400人のリリース）\
+デザインテンプレートを大量に制作しリリーススピードを上げるよう工夫しました。\
 また、画像をカルーセル化・非同期化することによりPV増加に貢献しました。
 
-その後、徐々に新規サービスに携わらせていただけるように。  
+その後、徐々に新規サービスに携わらせていただけるように。\
 アジャイルでの少人数チームの制作、良いアイディアがあれば即実行のフットワークの軽さが熱かったです。
+
+## 開発環境
+
+**Backend** : Java\
+**Frontend** : Javascript, jQuery / HTML / CSS / Photoshop / Illustrator\
+**その他** : Jenkins / Subversion
 
 ## 芸能人・有名人アメーバブログ
 
-![&#x6843;&#x30AA;&#x30D5;&#x30A3;&#x30B7;&#x30E3;&#x30EB;&#x30D6;&#x30ED;&#x30B0;](../.gitbook/assets/image%20%289%29.png)
+![桃オフィシャルブログ](<../.gitbook/assets/image (9).png>)
 
-![&#x7530;&#x4E2D;&#x7F8E;&#x4FDD;&#x30AA;&#x30D5;&#x30A3;&#x30B7;&#x30E3;&#x30EB;&#x30D6;&#x30ED;&#x30B0;&#xFF62;340112!!&#xFF63;](../.gitbook/assets/image%20%288%29.png)
+![田中美保オフィシャルブログ｢340112!!｣](<../.gitbook/assets/image (8).png>)
 
-![TERIYAKI BOYZ &#x30C6;&#x30EA;&#x30E4;&#x30AD;&#x30DC;&#x30FC;&#x30A4;&#x30BA; OFFICIAL BLOG](../.gitbook/assets/image.png)
+![TERIYAKI BOYZ テリヤキボーイズ OFFICIAL BLOG](../.gitbook/assets/image.png)
 
 * [https://ameblo.jp/momo-minbe/](https://ameblo.jp/momo-minbe/)
 * [https://ameblo.jp/tanaka--miho/](https://ameblo.jp/tanaka--miho/)
@@ -31,17 +37,17 @@ description: 2008年4月～2013年1月
 * 運用
 * タレントさんとの折衝、ディレクション
 
-## Ameba（アメーバ） \| 芸能人・有名人ブログ
+## Ameba（アメーバ） | 芸能人・有名人ブログ
 
-![Ameba&#xFF08;&#x30A2;&#x30E1;&#x30FC;&#x30D0;&#xFF09; \| &#x82B8;&#x80FD;&#x4EBA;&#x30FB;&#x6709;&#x540D;&#x4EBA;&#x30D6;&#x30ED;&#x30B0;](../.gitbook/assets/image%20%2813%29.png)
+![Ameba（アメーバ） | 芸能人・有名人ブログ](<../.gitbook/assets/image (13).png>)
 
 * [https://official.ameba.jp/](https://official.ameba.jp/)
 * 芸能人・有名人ブログのポータルページ
 * デザインや運用、新規ページの作成を担当
 
-## Ameba News \[アメーバニュース\]
+## Ameba News \[アメーバニュース]
 
-![Ameba News \[&#x30A2;&#x30E1;&#x30FC;&#x30D0;&#x30CB;&#x30E5;&#x30FC;&#x30B9;\]](../.gitbook/assets/image%20%2817%29.png)
+![Ameba News \[アメーバニュース\]](<../.gitbook/assets/image (17).png>)
 
 * [https://news.ameba.jp/](https://news.ameba.jp/)
 * 芸能人・有名人関連のニュースサイト
@@ -53,7 +59,7 @@ description: 2008年4月～2013年1月
 
 * 顔認識により芸能人の顔写真のみを集めて見ることができるサイト
 
-### しゃべり場を探す \| Ameba\(アメーバ\) スマホ写真でおしゃべり センスフル
+### しゃべり場を探す | Ameba(アメーバ) スマホ写真でおしゃべり センスフル
 
 * 画像をアップロードして、そこからのコミュニケーションを楽しむサイト
 * お題からの画像アップロードで、bokete的な盛り上がりも
@@ -64,7 +70,5 @@ description: 2008年4月～2013年1月
 
 
 
- 
-
-
+&#x20;
 

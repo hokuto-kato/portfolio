@@ -15,15 +15,23 @@ description: 2015年5月～2017年1月
 
 最終的にフロントチームも自分を除いて3人体制にすることができたし、チームとしてある程度の基盤固めに貢献できたのかと思います。
 
-## 出会い応援コミュニティ ワクワクメール
+## 開発環境
+
+**Backend** : Perl\
+**Frontend** : Gulp / Javascript / HTML / Sass, Flocss / Photoshop / Illustrator/ Zeplin\
+**その他** : Slack / Subversion / GitLab / Redmine / Jira
+
+## 担当プロジェクト
+
+### 出会い応援コミュニティ ワクワクメール
 
 ![出会い応援コミュニティ ワクワクメール](<../.gitbook/assets/image (10) (1).png>)
 
-### URL
+#### URL
 
-* [https://550909.com/](https://550909.com)
+* [https://550909.com/](https://550909.com/)
 
-### 担当業務
+#### 担当業務
 
 * PC・スマートフォン・ガラケー対応マッチングサービスのフロントエンド業務を担当
 * gulp、sass、Browserify、Flocssなどを導入し、制作環境を構築 ページごとにバラバラに配置されていたCSS・JSを一つにまとめる
