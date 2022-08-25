@@ -1,3 +1,7 @@
+---
+description: いままでやってきたこと
+---
+
 # ⚡ できること
 
 * Pug, SASS, Stylusなどのpreprocessorを使った開発
@@ -8,4 +12,3 @@
 * Tweenmax, P5.jsなどのライブラリを使ったアニメーション
 * WordPressを使ったCMS制作
 * フロントチームのマネージメント
-* Reactを使ったWeb App制作 <mark style="color:red;">**← NEW!**</mark>
