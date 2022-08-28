@@ -11,7 +11,7 @@ description: いままでやってきたこと
 | ●●●●○ | Gulp / webpack / Vite を使った開発環境の設定      |
 | ●●●○○ | flocssなどのスタイル設計                        |
 | ●●●○○ | CSS, Web Animations API を使ったアニメーション    |
-| ●●○○○ | Tweenmax, P5.jsなどのライブラリを使ったアニメーション     |
+| ●●○○○ | GSAP, P5.jsなどのライブラリを使ったアニメーション         |
 | ●●●○○ | WordPressを使ったサイト構築                     |
 | ●●○○○ | フロントチームのマネージメント                        |
 | ●○○○○ | React, Chakra UI, TailwindCSS          |
