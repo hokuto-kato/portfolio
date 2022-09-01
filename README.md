@@ -21,4 +21,10 @@ EC、オークション、社内ツールなどなど。\
 
 ## Github
 
-[https://github.com/hokuto-kato](https://github.com/hokuto-kato)
+{% embed url="https://github.com/hokuto-kato" %}
+
+## Twitter
+
+日常とプログラムをゆるくつなぐ活動として、仕事以外で書いているものをアップしています。
+
+{% embed url="https://twitter.com/h_o_k_u_t_o_" %}

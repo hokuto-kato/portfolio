@@ -9,6 +9,5 @@
   * [NTTラーニングシステムズ株式会社](history/ntt.md)
   * [株式会社サイバーエージェント](history/ca.md)
   * [株式会社LockUP](history/lockup.md)
-* [💻 Daily Coding](daily-coding.md)
 * [⚡ できること](skill.md)
 * [🏃♂ やりたいこと](yaritaikoto.md)
