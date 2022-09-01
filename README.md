@@ -2,7 +2,7 @@
 description: 自己を紹介していく
 ---
 
-# 🧔 加藤北斗とは
+# 👀 加藤北斗とは
 
 ![最近ヒゲをたくわえはじめた](.gitbook/assets/IMG\_2454.JPG)
 
@@ -19,7 +19,7 @@ EC、オークション、社内ツールなどなど。\
 
 人から聞いた自分のいいところは、「粘り腰でへこたれず、腐らないところ」だそうです。
 
-## Github
+## GitHub
 
 {% embed url="https://github.com/hokuto-kato" %}
 
