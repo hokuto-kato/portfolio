@@ -7,7 +7,7 @@ description: 2022年〜
 ## 開発環境
 
 **Backend** : WordPress\
-**Frontend** : Webpack / Javascript / Sass, Flocss / Pug / Figma, XD, Zeplin\
+**Frontend** : Webpack / JavaScript / Sass, Flocss / Pug / Figma, XD, Zeplin\
 **その他** : Slack, Zoom
 
 **試しているもの** : **** Vite, React, Chakra UI, Tailwind CSS Typescript, P5.js, ESLint

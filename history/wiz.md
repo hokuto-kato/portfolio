@@ -9,7 +9,7 @@ description: 2017年2月～2019年8月
 ## 開発環境
 
 **Backend** : PHP, Laravel, WordPress\
-**Frontend** : Gulp / Javascript / Stylus,Sass,Flocss / Pug / Photoshop / Ilustrator / XD / Zeplin\
+**Frontend** : Gulp / JavaScript / Stylus,Sass,Flocss / Pug / Photoshop / Ilustrator / XD / Zeplin\
 **その他** : Vagrant / Virtualbox / Backlog / Bitbucket / Scrapbox / Slack / Chatwork
 
 ## 担当プロジェクト

@@ -16,7 +16,7 @@ description: 2008年4月～2013年1月
 ## 開発環境
 
 **Backend** : Java\
-**Frontend** : Javascript, jQuery / HTML / CSS / Photoshop / Illustrator\
+**Frontend** : JavaScript, jQuery / HTML / CSS / Photoshop / Illustrator\
 **その他** : Jenkins / Subversion
 
 ## 芸能人・有名人アメーバブログ

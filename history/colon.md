@@ -18,7 +18,7 @@ description: 2015年5月～2017年1月
 ## 開発環境
 
 **Backend** : Perl\
-**Frontend** : Gulp / Javascript / HTML / Sass, Flocss / Photoshop / Illustrator/ Zeplin\
+**Frontend** : Gulp / JavaScript / HTML / Sass, Flocss / Photoshop / Illustrator/ Zeplin\
 **その他** : Slack / Subversion / GitLab / Redmine / Jira
 
 ## 担当プロジェクト

@@ -11,7 +11,7 @@ description: 2013年10月～2015年4月
 ## 開発環境
 
 **Backend** : PHP\
-**Frontend** : Javascript, jQuery / CSS / HTML / Photoshop / Illustrator
+**Frontend** : JavaScript, jQuery / CSS / HTML / Photoshop / Illustrator
 
 ## 担当プロジェクト
 

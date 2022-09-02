@@ -4,9 +4,9 @@ description: 2019年9月〜2021年7月
 
 # 株式会社ディー・エヌ・エー / 株式会社モバオク
 
-初めての大規模ECサービスでした。
+はじめての大規模ECサービスでした。
 
-制作環境としては制作フローも含めて全てにおいて長い間手が入れられていなかったこともあり\
+制作環境としては制作フローも含めてすべてにおいて長い間手が入れられていなかったこともあり\
 これから環境を変えていこうという時期にちょうどよく関われたのが嬉しかったです。
 
 チームの結束も固いし、変な敷居もなく、言いたいことが言えるチームの文化はコロナ禍を乗り越えられた1つの大きな要因だったと思います。
@@ -14,8 +14,8 @@ description: 2019年9月〜2021年7月
 ## 開発環境
 
 **Backend** : Perl(独自フレームワーク) \
-**Frontend** : Gulp / Pug / Stylus, Flocss / Javascript / Figma, Zeplin, Photoshop\
-**その他** : Jira, Confluence / Slack / ScrapBox / Github / Zoom
+**Frontend** : Gulp / Pug / Stylus, Flocss / JavaScript / Figma, Zeplin, Photoshop\
+**その他** : Jira, Confluence / Slack / ScrapBox / GitHub / Zoom
 
 ## 担当プロジェクト
 
