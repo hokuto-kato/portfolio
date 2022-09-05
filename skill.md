@@ -10,8 +10,8 @@ description: いままでやってきたこと
 | ●●●●○ | npm, yarnなどのパッケージマネージャーを使った開発          |
 | ●●●●○ | Gulp / webpack / Vite を使った開発環境の設定      |
 | ●●●○○ | flocssなどのスタイル設計                        |
-| ●●●○○ | CSS, Web Animations API を使ったアニメーション    |
-| ●●○○○ | GSAP, P5.jsなどのライブラリを使ったアニメーション         |
+| ●●●○○ | DOMアニメーション                             |
+| ●○○○○ | Canvasアニメーション                          |
 | ●●●○○ | WordPressを使ったサイト構築                     |
 | ●●○○○ | フロントチームのマネージメント                        |
 | ●○○○○ | React, Chakra UI, TailwindCSS          |
