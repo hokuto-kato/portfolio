@@ -14,4 +14,4 @@ description: いままでやってきたこと
 | ●○○○○ | Canvasアニメーション                          |
 | ●●●○○ | WordPressを使ったサイト構築                     |
 | ●●○○○ | フロントチームのマネージメント                        |
-| ●○○○○ | React, Chakra UI, TailwindCSS          |
+| ●○○○○ | React, Vue, Chakra UI, TailwindCSS     |
