@@ -1,5 +1,5 @@
 ---
-description: 2022年〜
+description: 2022年1月〜2023年1月
 ---
 
 # フリーランス
@@ -10,12 +10,12 @@ description: 2022年〜
 **Frontend** : Webpack / JavaScript / Sass, Flocss / Pug / Figma, XD, Zeplin\
 **その他** : Slack, Zoom
 
-**試しているもの** : **** Vite, React, Chakra UI, Tailwind CSS Typescript, P5.js, ESLint
+**試しているもの** :  Vite, React, Chakra UI, Tailwind CSS Typescript, P5.js, ESLint
 
 ## 担当プロジェクト
 
 ### UMWELT LP制作
 
-![UMWELT｜ノーコードAIクラウド｜TRYETING Inc. (トライエッティング)](<../.gitbook/assets/image (27).png>)
+![UMWELT｜ノーコードAIクラウド｜TRYETING Inc. (トライエッティング)](<../.gitbook/assets/image (5).png>)
 
 [https://www.tryeting.jp/umwelt/](https://www.tryeting.jp/umwelt/)
