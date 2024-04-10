@@ -18,12 +18,16 @@ description: 2023年1月〜2024年1月
 
 ### バーミキュラ公式オンラインショップ
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>バーミキュラ公式オンラインショップ | Vermicular OnlineShop</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>バーミキュラ公式オンラインショップ | Vermicular OnlineShop</p></figcaption></figure>
 
-[https://shop.vermicular.jp/](https://shop.vermicular.jp/list/oven-pot-2/)
+{% embed url="https://shop.vermicular.jp/" %}
+
+制作期間：3ヶ月
 
 ### ロート製薬株式会社 / 採用サイト
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>採用サイト | ロート製薬株式会社</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>採用サイト | ロート製薬株式会社</p></figcaption></figure>
 
-[https://www.rohto.co.jp/recruit/](https://www.rohto.co.jp/recruit/)
+{% embed url="https://www.rohto.co.jp/recruit/" %}
+
+制作期間：2ヶ月

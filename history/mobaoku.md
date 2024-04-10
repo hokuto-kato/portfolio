@@ -21,9 +21,9 @@ description: 2019年9月〜2021年7月
 
 ### オークション モバオク - お得な新品・中古品を買うなら！
 
-![オークション モバオク - お得な新品・中古品を買うなら！](<../.gitbook/assets/image (21).png>)
+![オークション モバオク - お得な新品・中古品を買うなら！](<../.gitbook/assets/image (22).png>)
 
-[https://www.mbok.jp/](https://www.mbok.jp/)
+{% embed url="https://www.mbok.jp/" %}
 
 * フロントエンド環境の構築
 * フロントチームのマネージメント

@@ -21,15 +21,14 @@ description: 2008年4月～2013年1月
 
 ## 芸能人・有名人アメーバブログ
 
-![桃オフィシャルブログ](<../.gitbook/assets/image (29).png>)
+![桃オフィシャルブログ](<../.gitbook/assets/image (30).png>)
 
-![田中美保オフィシャルブログ｢340112!!｣](<../.gitbook/assets/image (27).png>)
+![TERIYAKI BOYZ テリヤキボーイズ OFFICIAL BLOG](<../.gitbook/assets/image (35).png>)
 
-![TERIYAKI BOYZ テリヤキボーイズ OFFICIAL BLOG](<../.gitbook/assets/image (34).png>)
+{% embed url="https://ameblo.jp/momo-minbe/" %}
 
-* [https://ameblo.jp/momo-minbe/](https://ameblo.jp/momo-minbe/)
-* [https://ameblo.jp/tanaka--miho/](https://ameblo.jp/tanaka--miho/)
-* [https://ameblo.jp/teriyakiblog/](https://ameblo.jp/teriyakiblog/)
+{% embed url="https://ameblo.jp/teriyakiblog/" %}
+
 * 芸能人、有名人オフィシャルブログの制作
   * 累計約2400人のオフィシャルブログのリリースを担当
   * テンプレートを大量に制作し、リリーススピードを上げる
@@ -41,17 +40,19 @@ description: 2008年4月～2013年1月
 
 ## Ameba（アメーバ） | 芸能人・有名人ブログ
 
-![Ameba（アメーバ） | 芸能人・有名人ブログ](<../.gitbook/assets/image (3).png>)
+![Ameba（アメーバ） | 芸能人・有名人ブログ](<../.gitbook/assets/image (4).png>)
 
-* [https://official.ameba.jp/](https://official.ameba.jp/)
+{% embed url="https://official.ameba.jp/" %}
+
 * 芸能人・有名人ブログのポータルページ
 * デザインや運用、新規ページの作成を担当
 
 ## Ameba News \[アメーバニュース]
 
-![Ameba News \[アメーバニュース\]](<../.gitbook/assets/image (31).png>)
+![Ameba News \[アメーバニュース\]](<../.gitbook/assets/image (32).png>)
 
-* [https://news.ameba.jp/](https://news.ameba.jp/)
+{% embed url="https://news.ameba.jp/" %}
+
 * 芸能人・有名人関連のニュースサイト
 * デザインや運用、新規ページの作成を担当
 
