@@ -10,8 +10,6 @@ description: 2022年1月〜2023年1月
 **Frontend** : Webpack / JavaScript / Sass, Flocss / Pug / Figma, XD, Zeplin\
 **その他** : Slack, Zoom
 
-**試しているもの** :  Vite, React, Chakra UI, Tailwind CSS Typescript, P5.js, ESLint
-
 ## 担当プロジェクト
 
 ### UMWELT LP制作
@@ -25,5 +23,7 @@ description: 2022年1月〜2023年1月
 ### RAZARIS ダンス&フィットネス大宮
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>RAZARIS ダンス&#x26;フィットネス大宮</p></figcaption></figure>
+
+{% embed url="https://www.razaris.jp/omiya/" %}
 
 制作期間：3週間
