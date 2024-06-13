@@ -1,9 +1,5 @@
 # 👀 加藤北斗とは
 
-<figure><img src=".gitbook/assets/IMG_3688_2 (1).JPG" alt=""><figcaption></figcaption></figure>
-
-加藤北斗と申します。
-
 <figure><img src=".gitbook/assets/IMG_3688_2 (2).JPG" alt=""><figcaption></figcaption></figure>
 
 加藤北斗と申します。
