@@ -20,8 +20,8 @@
 
 {% embed url="https://github.com/hokuto-kato" %}
 
-## Twitter
+## X
 
 日常とプログラムをゆるくつなぐ活動として、仕事以外で書いているものをアップしています。
 
-{% embed url="https://twitter.com/h_o_k_u_t_o_" %}
+[https://x.com/h\_o\_k\_u\_t\_o\_](https://x.com/h\_o\_k\_u\_t\_o\_)
